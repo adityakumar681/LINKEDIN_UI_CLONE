@@ -21,12 +21,12 @@ A responsive, modern-looking **LinkedIn-inspired UI clone** built using **HTML**
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](<img width="1470" height="840" alt="Screenshot 2025-07-17 at 7 44 17 PM" src="https://github.com/user-attachments/assets/040adfbd-18ac-4755-a499-d655a8569f67" />
-)
+<img width="1470" height="840" alt="Screenshot 2025-07-17 at 7 44 17 PM" src="https://github.com/user-attachments/assets/040adfbd-18ac-4755-a499-d655a8569f67" />
+
 
 ### 👤 Profile Page
-![Profile Page](<img width="1470" height="840" alt="Screenshot 2025-07-17 at 7 44 49 PM" src="https://github.com/user-attachments/assets/555c91fe-ce28-4b66-bf45-a0b2969ca326" />
-)
+<img width="1470" height="840" alt="Screenshot 2025-07-17 at 7 44 49 PM" src="https://github.com/user-attachments/assets/555c91fe-ce28-4b66-bf45-a0b2969ca326" />
+
 
 ---
 
